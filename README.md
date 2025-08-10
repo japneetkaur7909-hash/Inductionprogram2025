@@ -30,7 +30,7 @@ Two GNDEC alumni, **Sangam Arora** and **Arshpreet Singh**, shared their journey
 
 We were addressed by the following leaders of the institution:
 
-- **Dr. Sehajpal Singh** – Principal  
+- **Dr. Sehijpal Singh** – Principal  
 - **Dr. Harpreet Kaur Grewal** – Head of Department, Applied Sciences  
 - **Dr. Akshay Girdhar** – Dean, Academics  
 - **Dr. Parminder Singh** – Dean, Student Welfare  
