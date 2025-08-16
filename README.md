@@ -38,26 +38,45 @@ We were addressed by the following leaders of the institution:
 
 Each speaker provided insights into how students can grow academically, technically, and personally at GNDEC. Their words were motivating and gave us clarity about the journey ahead.
 
-## Speaker 1 :
-- **Mr. Harsimran Singh Jaggi**
+## Speaker 1 : - **Mr. Harsimran Singh Jaggi*
+He introduced the college's rich legacy, facilities, labs, and student clubs, and highlighting that **GNDEC has been offering technical education since 1956**. He also mentioned that the foundation stone  
+was laid by **Dr. Rajendra Prasad**, giving us a sense of the college's heritage.
+## Speaker 2 : - **Dr. Harpreet Kaur Grewal* 
+She inspired students by comparing college life to a continuous function, which keeps gerowing and improving. Using a creative video, she explained how the letter **'P'** stands for Pressure, Patience, Persistence, Perseverance, and Placement. As 'P' increases, so does success, showing our journey of progress. Her message motived us to trust teachers, work hard, and remain spiritually balanced.
+## Speaker 3 : -**Dr. Akshay Girdhar*
+He emphasized the importance of soft skills- communication, leadership teamwork- alongside academics, reminding us that engineering is about real-world learning and overal  development, not just solving 
+equations.
+## Speaker 4 : -**Dr. Parminder Singh*
+Urged us to value dedication, respect parents, and rely on hard work, reminding that these 4 years will shape our future. His message was clear: **determination and discipline** are the real keys 
+to success. 
+## Speaker 5 : -**Dr. Sehijpal Singh (Principal)*
+Spoke about the growing role of IT & AI, encouraging us to polish skills, stay humble, and uphold respect for value, parents, and teachers. He inspired us to combine knowledge with character to achieve true
+growth. 
+## Speaker 6 : -**Dr. Kulwinder Singh Mann (HOD,IT)*
+He motivatedus by assuring that **consistent dedication at GNDEC will lead to a bright and successful future. 
+## Speaker 7 : -**Mr. Ashok Singla (Financial Advisor)* 
+He gave a very practical talk on **educational loans**, explaining the application process, necessary documents, interest rates, and govrnment schemes, helping students understand how to manage 
+finances during studies. 
+
 #### Guest of Honour Speeches
 
 We also had the honour of listening to:
 
-- **Er. Ravinder Garg** – Chief Engineer, Municipal Corporation, Ludhiana  
-- **Er. Rakesh Kumar** – Additional Deputy Commissioner, Ludhiana  
+- **Er. Ravinder Garg** – -**Chief Engineer, Municipal Corporation, Ludhiana*
+- He focused on the value of **hard work** and shared practical thoughts on how consistent efforts lead to great results. 
+-   
+- **Er. Rakesh Kumar** – **Additional Deputy Commissioner, Ludhiana & 1991 Batch Alumnus*
+- He shared his college memories, real-life challenges, and lessons. His speech was filled with pride and inspiration. His words encouraged us to stay focusedand make the most of this golden time. 
+-   
 
 They shared real-life experiences and motivated us to develop leadership skills, stay focused, and work with sincerity and purpose.
-
-#### Closing Remarks
-
-The day concluded with words from **Dr. K. S. Mann**, Head of the IT Department, who encouraged us to make the best use of our time at GNDEC and never miss any opportunity to grow.
 
 ---
 
 ### Lab Visits
 
-We visited the **Computer Science Department labs**, which were clean, well-equipped, and designed for modern technical learning. The visit gave us a clear picture of the practical exposure we’ll gain throughout the program.
+We visited the **Computer Science Department labs**, which were clean, well-equipped, and designed for modern technical learning. The visit gave us a clear picture of the practical exposure we’ll gain 
+throughout the program.
 
 ---
 
