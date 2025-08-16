@@ -19,15 +19,15 @@ Afterwards, we were served **tea and snacks**, allowing us to meet fellow classm
 ### Induction Program Highlights
 Around 10:30 AM, we gathered in the auditorium, where the seniors greeted us with a warm floral welcome. The event then moved forward with encouraging and informative speeches. 
 
-#### Introduction to GNDEC
+### Introduction to GNDEC
 
 The **Student Induction Program 2025** officially began in the auditorium. We were introduced to the college's rich history, values, and vision. The environment felt welcoming and full of energy.
 
-#### Alumni Interaction
+## Alumni Interaction
 
 Two GNDEC alumni, **Sangam Arora** and **Arshpreet Singh**, shared their journeys. They spoke about how participating in clubs, projects, and co-curricular activities helped shape their careers. Their stories encouraged us to take initiative from day one.
 
-#### Faculty and Leadership Addresses
+### Faculty and Leadership Addresses
 
 We were addressed by the following leaders of the institution:
 
@@ -38,38 +38,43 @@ We were addressed by the following leaders of the institution:
 
 Each speaker provided insights into how students can grow academically, technically, and personally at GNDEC. Their words were motivating and gave us clarity about the journey ahead.
 
-## Speaker 1 : - **Mr. Harsimran Singh Jaggi*
+### Speaker 1 : - *Mr. Harsimran Singh Jaggi*
 He introduced the college's rich legacy, facilities, labs, and student clubs, and highlighting that **GNDEC has been offering technical education since 1956**. He also mentioned that the foundation stone  
 was laid by **Dr. Rajendra Prasad**, giving us a sense of the college's heritage.
-## Speaker 2 : - **Dr. Harpreet Kaur Grewal* 
+### Speaker 2 : - *Dr. Harpreet Kaur Grewal (HOD, Applied Science)* 
 She inspired students by comparing college life to a continuous function, which keeps gerowing and improving. Using a creative video, she explained how the letter **'P'** stands for Pressure, Patience, Persistence, Perseverance, and Placement. As 'P' increases, so does success, showing our journey of progress. Her message motived us to trust teachers, work hard, and remain spiritually balanced.
-## Speaker 3 : -**Dr. Akshay Girdhar*
+### Speaker 3 : -*Dr. Akshay Girdhar*
 He emphasized the importance of soft skills- communication, leadership teamwork- alongside academics, reminding us that engineering is about real-world learning and overal  development, not just solving 
 equations.
-## Speaker 4 : -**Dr. Parminder Singh*
+### Speaker 4 : -*Dr. Parminder Singh*
 Urged us to value dedication, respect parents, and rely on hard work, reminding that these 4 years will shape our future. His message was clear: **determination and discipline** are the real keys 
 to success. 
-## Speaker 5 : -**Dr. Sehijpal Singh (Principal)*
+### Speaker 5 : -*Dr. Sehijpal Singh (Principal)*
 Spoke about the growing role of IT & AI, encouraging us to polish skills, stay humble, and uphold respect for value, parents, and teachers. He inspired us to combine knowledge with character to achieve true
 growth. 
-## Speaker 6 : -**Dr. Kulwinder Singh Mann (HOD,IT)*
+### Speaker 6 : -*Dr. Kulwinder Singh Mann (HOD , IT)*
 He motivatedus by assuring that **consistent dedication at GNDEC will lead to a bright and successful future. 
-## Speaker 7 : -**Mr. Ashok Singla (Financial Advisor)* 
+### Speaker 7 : -*Mr. Ashok Singla (Financial Advisor)* 
 He gave a very practical talk on **educational loans**, explaining the application process, necessary documents, interest rates, and govrnment schemes, helping students understand how to manage 
 finances during studies. 
 
-#### Guest of Honour Speeches
+---
 
-We also had the honour of listening to:
+ ### Guest of Honour Speeches
 
-- **Er. Ravinder Garg** – -**Chief Engineer, Municipal Corporation, Ludhiana*
-- He focused on the value of **hard work** and shared practical thoughts on how consistent efforts lead to great results. 
--   
-- **Er. Rakesh Kumar** – **Additional Deputy Commissioner, Ludhiana & 1991 Batch Alumnus*
-- He shared his college memories, real-life challenges, and lessons. His speech was filled with pride and inspiration. His words encouraged us to stay focusedand make the most of this golden time. 
--   
+ We also had the honour of listening to:
 
-They shared real-life experiences and motivated us to develop leadership skills, stay focused, and work with sincerity and purpose.
+- ### Er. Ravinder Garg – *Chief Engineer, Municipal Corporation, Ludhiana*
+
+  He focused on the value of **hard work** and shared practical thoughts on how consistent efforts lead to great results. 
+  
+- ### Er. Rakesh Kumar – *Additional Deputy Commissioner, Ludhiana & 1991 Batch Alumnus*
+
+  He shared his college memories, real-life challenges, and lessons. His speech was filled with pride and inspiration. His words encouraged us to stay focusedand make the most of this golden time. 
+
+   
+
+  They shared real-life experiences and motivated us to develop leadership skills, stay focused, and work with sincerity and purpose.
 
 ---
 
@@ -89,3 +94,36 @@ throughout the program.
 - Overall, the day left me feeling motivated, welcomed, and ready to begin this journey.
 
 ---
+
+
+## Day 2 
+The day began with a **Profiency Test in English and Mathematics**, designed to assess our basic skills and give us a clear idea of where we stand. It set the stage for self-improvement and growth. 
+
+## Expert Lecture By Dr. Arashdeep Singh 
+
+After the test, we attended an **insightful lecture** by **Dr. Arashdeep Singh** on "*Food: A Pivotal Role In Student's Overall Wellness*." He emphasized that **balanced nutrition, proper hydration, 
+and mindful eating** are not just about physical fitness but also the key to **mental sharpness and sustained energy,** especially for students handling busy schedules. His words reminded us that 
+**healthy living is the backbone of academic and personal success.**
+
+## Causmic Club And Induction Launch 
+
+The **Causmic Club** then hosted an **energetic session** that officially launched the induction activities. They introduced us to the world of **technical, cultural and creative events,** inspiring us 
+to participate and **discover our hidden talents.** It brought a wave of excitement and enthusisam among us. 
+
+## Github Tutorial
+
+Later, we engaged in a **hands-on Github workshop** where we learned to : 
+
+- **Create an account**
+- **Set up our first repository**
+- **Understand basic version control concepts**
+
+ This session acted as a **gateway into open-source contributions and digital portfolio building,** giving us the confidence to start our journey in the coding world. 
+
+
+ ---
+
+
+ ## Day 3 
+
+ 
