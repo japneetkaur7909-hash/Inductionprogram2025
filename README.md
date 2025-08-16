@@ -39,7 +39,7 @@ We were addressed by the following leaders of the institution:
 Each speaker provided insights into how students can grow academically, technically, and personally at GNDEC. Their words were motivating and gave us clarity about the journey ahead.
 
 ## Speaker 1 :
-- **Mr. Harsimran Singh Jaggi 
+- **Mr. Harsimran Singh Jaggi**
 #### Guest of Honour Speeches
 
 We also had the honour of listening to:
