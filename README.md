@@ -17,6 +17,7 @@ Afterwards, we were served **tea and snacks**, allowing us to meet fellow classm
 ---
 
 ### Induction Program Highlights
+Around 10:30 AM, we gathered in the auditorium, where the seniors greeted us with a warm floral welcome. The event then moved forward with encouraging and informative speeches. 
 
 #### Introduction to GNDEC
 
@@ -37,6 +38,8 @@ We were addressed by the following leaders of the institution:
 
 Each speaker provided insights into how students can grow academically, technically, and personally at GNDEC. Their words were motivating and gave us clarity about the journey ahead.
 
+## Speaker 1 :
+- **Mr. Harsimran Singh Jaggi 
 #### Guest of Honour Speeches
 
 We also had the honour of listening to:
