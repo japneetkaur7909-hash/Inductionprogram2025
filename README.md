@@ -126,4 +126,22 @@ Later, we engaged in a **hands-on Github workshop** where we learned to :
 
  ## Day 3 
 
+ ## Expert Lecture By Dr. Jaswinder Singh (Incharge-IAPT)
+
+ The day commenced with an enlightening address by Dr. Jaswinder Singh in the college auditorium. Instead of beginning with facts or theory, he invited everyone to shut their eyes and quietly look inward. 
+ The purpose was to make us experience inner silence and self-awareness. When the exercise ended, students shared strikingly different insights- one felt the mind was restless, another had a vision of 
+ Guru Nanak Dev Ji, someone imagined their future success, another visualized space, one recalled Shiv Ji, while another concentrated only on the point between the eyes. 
+ Dr.Singh skillfully wove those experiences into a dialogue between science and spirituality. Quoting from *Japji Sahib-"Kita pasaoeko kawaao, tis te hoye lakh dariyaao"*-he explained its profound 
+ meaning, connecting it to universal vibrations. He demonstated how vibrations exist even in everyday acts such as clapping, which can create energy strong enough to remove bacteria. In this way, he
+ introduced innovative approaches to meditation while sharing experiments from his own journey of self exploration. 
+ He also spoke about how he gradually developed his ability as a speaker. Every stage opportunity, he said, was like an examination where he gave his best . Over time, this practice brought **confidence and       joy.** He expressed gratitude to **GNDEC Faculty** and reminded us that, as newcomers, we are fortunate to be mentored by such dedicated teachers. 
+ Toward the end, he narrated a powerful story of a girl in a job interview. On being asked her father's name, she responded truthfully. The interviewer stood up and instantly selected her. Walking out, she        thought to herself, *"Papa, you are great. I never understood you before, but today I do."* This tale beautifully conveyedhis core message - living with honesty, being self aware, and valuing the quiet but 
+ strong support of our loved ones.
+
+
+ ## Expert Lecture By Dr. Priya Darshni on "Universal Human Values" 
+
+ The second session of the day was conducted by Dr. Priya Darshni, who spoke on the vital themeof *Universal Human Values*. 
+
+ 
  
