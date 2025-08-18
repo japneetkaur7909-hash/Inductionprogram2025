@@ -141,7 +141,86 @@ Later, we engaged in a **hands-on Github workshop** where we learned to :
 
  ## Expert Lecture By Dr. Priya Darshni on "Universal Human Values" 
 
- The second session of the day was conducted by Dr. Priya Darshni, who spoke on the vital themeof *Universal Human Values*. 
+ The second session of the day was conducted by Dr. Priya Darshni, who spoke on the vital themeof *Universal Human Values*. Unlike lectures that simply provide information, her session felt more like a 
+ gentle reminder of how we ought to live. She explained that values are not abstract concepts; they are living principles that guide our everyday choices and interactions. She highlighted how respect 
+ creates harmony in relationships, emapathy allows us to truly understand others, and trust forms the foundation of all meaningful connections. These qualities, she  noted, are just as essesntial
+ in our careers as they are in our personal lives, because they shape the kind of professionals and human beings we become. 
+ Dr. Darshni also pointed out that values are not taught only in classrooms-they are practiced in how we greet someone, how we respond in difficult situations, and how we carry ourselves when no one is
+ watching. She urged us to see values not as a rulebook but as a compass, always pointing us toward the right direction. 
+ The tone of her talk was calm yet powerful, making us pause and reflect. By the end, it felt less like a lecture and more like a mirror held up to our own actions. She left us with the thought that living 
+ by universal values is not just about improving society-it is about becoming a more complete, balanced, and compassionate version of ourselves.
+
+---
+
+## Key Takeaways
+
+## Dr. Jaswinder Singh (Incharge-IAPT)
+- Silence helps us connect with our inner self.
+- Science and spirituality complement each other.
+- Vibrations are powerful forces in nature and life.
+- Meditation can be practiced in many personal ways.
+- Treat every stage as a test and give your best.
+- Honesty opens dorrs to success.
+
+
+## Dr. Priya Darshni (Universal Human Values)
+- Values guie everyday choices and actions.
+- Respect creates harmony in relationships.
+- Empathy allows true human connection.
+- Small actions reflect true character.
+- Values are a comapss fo a life's journey.
+- Trustis the foundation of strong bonds.
+
+
+ ---
+
+
+## Day 4
+
+## Session by Dr. Priya Darshni on Universal Human Values-2 
+
+The afternon began with Dr. Darshni's continuation of her series on *Universal Human Values.* Instead of repeating earlier points, she pushed us into deeper waters-exploring the idea of 
+*Right Understaning.* To explain, she drew a simple yet poowerful contrast: animals are content once their physical needs are satisfied, but humans cannot stop there. We need food, shelter,
+and safety, yes-but also clarity, meaningful relationships, and inner balance to live joyfully. 
+She reminded us that wealth and comfort alone do not promise peace. A prson can own every luxury and still restless if trust and respect are missing. On the other hand, life can feel full even 
+with fewer resources, provided there is understanding and harmony.She warned that when our thoughts and values lack calrity, we may unknowingly spread unhappiness to those around us.
+At a point, she gently paused and asked: *"In your busy day, how often do you pause to reflect on yourself, your relationships, and the harmony you create?"* That question lingered in the room.
+We all realised that we dedicate hours to academics and tasks, but barely any time to self-reflection. Her closing message was clear- growthis not just about marks or achievements, but about cultivating
+empathy, clarity, and respect for others. 
+Her talk felt less like a lecture and more like an awakening- simple words that quietly nudged us to rethink how we live. 
+
+
+## Causmic Cub Introduction 
+
+Later, from 3:00 to 4:00 pm, the atmosphere shifter as the **CAUSMIC CLUB** took the stage. Their very name caught attention - *Causmic*, a blend of *"cause"* and *"cosmos"*, *"symbolizing"* limitless
+ideas tied to purposeful action. 
+The members introduced themselves with infectious enthusiasm and shared the club's vision: to be a space where creativity, discussions and innovation come  together. They walked us through the variety 
+of events they've hosted-**ACME, APEX, Genconian Craft Prix, Bachelor Buddies, and Ambit Youth Parliament.** Each event had its own flavor, ranging from technical competitions to cultural showcases and 
+thought-provoking debates. What stood out most was the inclusivity- the club is not bound by departments or seniority; it thrives on diversity. 
+But their real emphasis was not on attending events, but on *creating* them. They spoke about teamwork, leadership, and learning from real challenges-how every member gets the chance to design, organize
+and execute ideas. This, they said, is what transforms students into confident individuals ready for bigger roles in life. 
+The room was charged with their passion. It didn't feel like a routine introduction; it felt like an invitation to step into something bigger. By the end, many of us were no longer just listeners-we
+were already imagining ourselves as future members of Causmic. 
+
+---
+
+## Day 5 (05.08.25)
+
+No lecture in Auditorium
+
+---
+
+## Day 6 - Induction Program Proceedings 
+
+The sixth day of the induction program opened with an inspiring interaction led by **Sardar Gurcharan Singh Grewal, member of SGPC.** Greetings everyone with a warm *"Fateh,"* he immediately set the tone by
+assuring that his session would be a dialogue rather than a lecture. His approachable style made the atmospehre lively and welcoming.
+Mr. Grewal encouraged us to remain on the right path, reassuring us that joining GNE was already a wise decision. On a personal note, he mentioned how he once aspired to study at this very institution, making his words even more heartfelt. Before concluding, he invited students to share their reflections on the induction journey so far, turning the session into a truly interactive experience.
+
+The next session was conducted by Dr. Lakhvir Singh Khana (Incharge – CML, SWAYAM–NPTEL Coordinator), who introduced us to the government-supported platforms SWAYAM and NPTEL. He explained their value as open learning platforms where courses are taught by IIT professors and cover a vast range of subjects.
+Dr. Khana especially emphasized the importance of enrolling in NPTEL courses since they align closely with our academic requirements. During the session, we even created our own accounts on the platform. Later, while exploring the portal, I personally enrolled in the course Developing Soft Skills and Personality—something I am genuinely enthusiastic about pursuing.
+
+The day concluded with a short but impactful session by Mr. Arvind Dhingra (Director – STEP & Incharge – TAC). Observing that some students were growing restless, he kept his talk concise and to the point. His central message was clear: “Only when you pursue something with passion can you truly succeed.”
+To lighten the mood, he engaged us with a playful activity, asking for the last letter of the English alphabet. When a student responded with “A,” he cheerfully accepted it, turning the moment into a humorous icebreaker. Though brief, his last minute talk address was energetic, engaging, and served as a refreshing close to the day's sessions. 
 
  
  
