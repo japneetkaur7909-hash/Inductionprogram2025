@@ -224,34 +224,41 @@ Mr. Grewal encouraged us to remain on the right path, reassuring us that joining
 
 ---
 
-## Session by Dr. Lakhvir Singh Khana (Incharge – CML, SWAYAM–NPTEL Coordinator)•	Dr. Lakhvir Singh Khana introduced students to the government-supported platforms SWAYAM and NPTEL.
+## Session by Dr. Lakhvir Singh Khana (Incharge – CML, SWAYAM–NPTEL Coordinator)	
+
+**Dr. Lakhvir Singh Khana** introduced students to the government-supported platforms **SWAYAM and NPTEL.**
 	
 ## Key points about the platforms:
 
-	 •	Offer a wide range of courses across disciplines.
-	 •	Courses are designed and taught by IIT professors.
-	 •	Provide opportunities for self-paced, open learning.
-	•	He highlighted the special importance of NPTEL courses:
-	 •	Directly relevant to academic studies.
-	 •	Helpful in building both subject knowledge and practical skills.
-	•	During the session:
-  	•	Students created their own accounts on the platforms.
-	•	Post-session experience:
-	 •	Explored the courses available on the portal.
-	 •	Personally enrolled in “Developing Soft Skills and Personality”.
-	 •	Looking forward to pursuing it with genuine enthusiasm.
+- Offer a wide range of courses across disciplines.
+- Courses are designed and taught by **IIT PROFESSORS.**
+- Provide opportunities for **self-paced, open learning.**
+
+- He highlighted the special importance of **NPTEL COURSES:**
+
+- Directly relevant to academic studies.
+- Helpful in building both subject knowledge and practical skills.
+
+- **During the session:**
+
+- Students created their **own accounts** on the platforms.
+ 
+- **Post-session experience:**
+
+- Explored the courses available on the portal.
+- Personally enrolled in **"Developing Soft Skills and Personality".**
+- Looing forward to pursuing it with genuine enthusisam.     
 
 ---
 
 ## Closing Session by Mr. Arvind Dhingra (Director – STEP & Incharge – TAC)
-	
-  •	Observed that students were becoming restless and adjusted his talk accordingly.
-	•	Delivered a short and concise session to maintain attention.
-	•	Shared his key message: “Only when you pursue something with passion can you truly succeed.”
-	•	Engaged students with a fun activity by asking for the last letter of the English alphabet.
-	•	A student replied “A,” and he humorously accepted it as correct, lightening the mood.
-	•	His last minutes address was energetic, interactive, and served as a refreshing conclusion to the day.
 
+- Observed that students were becoming restless and adjust his talk accordingly.
+- Delivered a **short and concise session**to maintain attention.
+- Shared his key message: *"Only when you persue something with passion you can truly succeed".*
+- Engaged students with a **fun activity** by asking for the last letter of the English alphabet.
+- A student replied "*A*", and he humorously accepted it as correct, lightening the mood.
+- His last miunte address was energetic, interactive, and served as a refreshing conclusion to the day. 
 
  
  
