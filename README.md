@@ -177,6 +177,8 @@ Later, we engaged in a **hands-on Github workshop** where we learned to :
 
 ## Day 4 
 
+## Lecture by Dr. Priya Darshni on "Universal Human Values"
+
 - **Focus on Right Understanding**- Dr. Darshni continued her series on Universal Human Values, emphasizing the deeper concept of right understanding.
 - **Human vs. Animal Needs**- Animals are content oncephysical needs are met, but humans also required clarity, meaningful relationships, and inner balance.
 - **Limits of Wealth**- Wealth and comfort alone do not guarantee peace; trust and respect are equally essential.
