@@ -175,39 +175,39 @@ Later, we engaged in a **hands-on Github workshop** where we learned to :
  ---
 
 
-## Day 4  
+## Day 4 
 
-  •	Focus on Right Understanding – Dr. Darshni continued her series on Universal Human Values, emphasizing the deeper concept of right understanding.
-	•	Human vs. Animal Needs – Animals are content once physical needs are met, but humans also require clarity, meaningful relationships, and inner balance.
-	•	Limits of Wealth – Wealth and comfort alone do not guarantee peace; trust and respect are equally essential.
-	•	Fulfillment through Harmony – Even with fewer resources, life feels complete if there is understanding and harmony.
-	•	Impact of Lack of Clarity – Confused thoughts and unclear values can spread unhappiness to others.
-	•	Reflection Question – She asked, “How often do you pause to reflect on yourself, your relationships, and the harmony you create?”
-	•	Realisation – Students recognized they devote time to academics but rarely to self-reflection.
-	•	Core Message – True growth is not just academic success but also empathy, clarity, and respect for others.
-	•	Overall Experience – The session felt more like an awakening than a lecture, inspiring students to rethink how they live.
+- **Focus on Right Understanding**- Dr. Darshni continued her series on Universal Human Values, emphasizing the deeper concept of right understanding.
+- **Human vs. Animal Needs**- Animals are content oncephysical needs are met, but humans also required clarity, meaningful relationships, and inner balance.
+- **Limits of Wealth**- Wealth and comfort alone do not guarantee peace; trust and respect are equally essential.
+- **Fulfillment through Harmony**- Even with fewer resources, life feels complete if there is understanding and harmony.
+- **Impact of Lack of Clarity**- Confused thoughts and unclear values can spread unhappiness to others.
+- **Reflection Question**- She asked, "How often do you pause to reflect on yourself,your relationships, and the harmony you create."
+- **Realisation**- Students recognized they devote time to academics but rarely to self-reflection.
+- **Core Message**- True growth is not just academic success but also empathy, clarity, and respect for others.
+- **Overall Experience**- The session felt more like an awakening than a lecture ,inspiring students to rethink how they live. 
 
+---
 
 ## Causmic Cub Introduction 
 
-  •	The Causmic Club conducted its orientation session from 3:00 to 4:00 pm.
-	•	The name Causmic is derived from “cause” and “cosmos”, reflecting the club’s vision of purposeful action, creativity, and broad thinking.
-	•	The session began with an introduction to the club’s objectives, highlighting its inclusivity for students from all departments and years.
-	•	Members shared details of the diverse events organized under the club, including:
-	•	ACME
-	•	APEX
-	•	Genconian Craft Prix
-	•	Bachelor Buddies
-	•	Ambit Youth Parliament
-	•	These events span across technical, cultural, and discussion-based domains.
-	•	Coordinators stressed that the club focuses not only on attending events but also on hands-on involvement in:
-	•	Planning
-	•	Teamwork
-	•	Leadership
-	•	Execution of activities
-	•	Through participation, students gain organizational experience, problem-solving skills, and confidence.
-	•	The session was highly engaging and motivating, inspiring many students to actively consider joining the club.
-
+- The **Causmic Club** conducted its orientation sessions from 3:00 to 4:00 pm.
+- The name *Causmic* is derived from "*cause"* and *"cosmos"* , reflecting the club's vision of purposeful action, creativity, and broad thinking.
+- The session began with an introduction to the club's objectives, highlighting its inclusivity for students from all departments and years.
+- Members shared details of the diverse events organized under the club, including;
+- **ACME**
+- **APEX**
+- **Genconian Craft Prix**
+- **Ambit Youth Parliament**
+- These events span across **technical**, **cultural**, **and discussion-based domains.**
+-  Coordinators stressed that the club focuses not only on attending events but also on **hands-on involvement** in:
+-  **Planning**
+-  **Teamwork**
+-  **Leadership**
+-  **Execution of activities**
+-  Through participation, students gain **organizational experience, problem-solving skills, and confidence.**
+-  The session was highly **engaging and motivating** inspiring many students to actively consider joining the club. 
+ 
 ---
 
 ## Day 5 (05.08.25)
